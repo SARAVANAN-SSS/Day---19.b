@@ -1,0 +1,20 @@
+#div1{
+    background-color: rgb(34, 32, 32);
+    color:#fff;
+}
+
+#div2{
+    background-color: rgb(34, 32, 32);
+}
+
+tr, h2 {
+    color:#fff;
+
+}
+
+.btn{
+    color: black;
+    background: gold;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
